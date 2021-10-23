@@ -3,7 +3,7 @@
 Open Domain Chatbot을 Tensorflow와 Keras로 구현한 기록입니다.
 
 <p align="center">
-   <img src="img\block.png"/>
+   <img src="img\block_diagram.png"/>
 </p>
 
 ## Document
